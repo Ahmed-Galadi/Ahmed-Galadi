@@ -1,60 +1,31 @@
 
+<h1 align="center">Hi 👋, I'm Ahmed Galadi</h1>
+<h3 align="center">Hey there! I'm a curious soul hailing from Morocco and currently navigating the world of code at 1337 Coding School. My passion lies in the depths of low-level programming, where I thrive on creating clean, efficient systems that make the digital world run smoother. Whether I'm fine-tuning algorithms or building sleek, minimalist C programs, I aim to craft code that’s not just functional, but a true work of art. When I'm not diving into system-level coding, I'm also exploring the vast world of web development, where the front-end meets the back-end to create seamless user experiences.</h3>
 
-# 👾 Welcome to Ahmed-Galadi's Cyber Lab
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-galadi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-galadi" /> </p>
 
-![Cyberpunk Lab](./assets/cyberpunk_lab.png)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-galadi" alt="ahmed-galadi" /></a> </p>
 
-> “Code is the language of the future, and I'm fluent.”  
-> — Ahmed Galadi
+- 🔭 I’m currently working on [Ash of the Self](https://github.com/Ahmed-Galadi/ash_of_the_self)
 
----
+- 🌱 I’m currently learning **SFML - https://www.sfml-dev.org/**
 
-## 🧠 About Me
+- 💬 Ask me about **C, C++, javaScript**
 
-I'm Ahmed Galadi, a passionate programmer from Morocco and a proud student at 1337 Coding School. My journey in the world of code is driven by curiosity and a desire to build innovative solutions.
+- 📫 How to reach me **galadiahmed99@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahmed galadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed galadi" height="30" width="40" /></a>
+<a href="https://discord.gg/ahmed_galadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ahmed_galadi" height="30" width="40" /></a>
+</p>
 
-## 🛠️ Languages & Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-galadi&show_icons=true&locale=en&layout=compact" alt="ahmed-galadi" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-galadi&show_icons=true&locale=en" alt="ahmed-galadi" /></p>
 
-## 🚀 Top Projects
-
-### 🧬 [mini_hell](https://github.com/Ahmed-Galadi/mini_hell)
-A shell-like program that delves into the intricacies of command-line interfaces.
-
-### 🧠 [fractol](https://github.com/Ahmed-Galadi/fractol)
-An exploration of fractals, rendering complex mathematical patterns with elegance.
-
-### 📡 [mini_talk](https://github.com/Ahmed-Galadi/mini_talk)
-A minimalist communication program demonstrating inter-process communication.
-
-### 🧩 [push_swap](https://github.com/Ahmed-Galadi/push_swap)
-An algorithmic challenge focusing on sorting data with a limited set of operations.
-
----
-
-## 🎨 Pixel Art Showcase
-
-![Ahmed-Galadi Pixel Art](./assets/ahmed_galadi_pixel_art.png)
-
-*A pixel-art representation of my cyberpunk lab, where code meets creativity.*
-
----
-
-## 📫 Connect with Me
-
-- GitHub: [Ahmed-Galadi](https://github.com/Ahmed-Galadi)
-- LinkedIn: [Ahmed Galadi](https://ma.linkedin.com/in/ahmed-galadi-59a104215)
-
----
-
-*Crafted with passion and pixels.*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-galadi&" alt="ahmed-galadi" /></p>
 
