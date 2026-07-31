@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ahmed Galadi</h1>
-
 <h3 align="center">
 Software Engineer focused on <b>low-level systems</b>, <b>backend architecture</b>, and <b>applied AI (RAG systems)</b>.<br>
 I build software close to the metal — from HTTP servers and POSIX shells to production-ready AI systems.
@@ -51,7 +50,6 @@ I build software close to the metal — from HTTP servers and POSIX shells to pr
 ---
 
 ## 🧠 What I Work On
-
 - ⚙️ Systems programming (C / C++ / Unix)  
 - 🌐 Backend engineering (APIs, architecture, security)  
 - 🤖 AI systems (RAG, LLM integration, vector search)  
@@ -92,11 +90,19 @@ I build software close to the metal — from HTTP servers and POSIX shells to pr
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-galadi&layout=compact&theme=radical" />
 </p>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-galadi&show_icons=true&theme=radical" />
 </p>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-galadi&theme=dark" />
+</p>
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-galadi&theme=react-dark&hide_border=true" alt="ahmed-galadi's activity graph" />
+</p>
+
+<!-- Snake Contribution Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmed-galadi/ahmed-galadi/output/github-contribution-grid-snake-dark.svg" alt="ahmed-galadi's contribution snake animation" />
 </p>
